@@ -1,0 +1,13 @@
+[project]
+name = "ice-breaker-using-llm"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "langchain>=0.3.4",
+    "langchain-openai>=0.2.3",
+    "python-dotenv>=1.0.1",
+    "langsmith>=0.1.137",
+    "openai>=1.52.2",
+]
